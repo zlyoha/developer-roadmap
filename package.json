@@ -20,10 +20,10 @@
   "dependencies": {
     "@astrojs/sitemap": "^1.0.1",
     "@astrojs/tailwind": "^3.0.1",
-    "astro": "^2.0.8",
-    "astro-compress": "^1.1.31",
+    "astro": "^2.0.10",
+    "astro-compress": "^1.1.32",
     "node-html-parser": "^6.1.4",
-    "npm-check-updates": "^16.6.5",
+    "npm-check-updates": "^16.7.4",
     "rehype-external-links": "^2.0.1",
     "roadmap-renderer": "^1.0.4",
     "tailwindcss": "^3.2.6"
